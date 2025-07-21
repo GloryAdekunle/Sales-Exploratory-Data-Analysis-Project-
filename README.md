@@ -6,6 +6,9 @@ This project explores a company's sales data to uncover trends, top products, cu
 ### Data Source
 all_data: The primary data set used for this analysis is the "all_data.csv" file. It contains very detailed information about each order made by the customers. The columns are namely OrderID, Product, Quantity Ordered, price Each, Order Date and Purchase Address of the customers.
 
+<img width="1393" height="505" alt="Data Preview" src="https://github.com/user-attachments/assets/12659a8e-5c61-4876-b3cf-3b12371b997a" />
+
+
 ### Tools
 - Python
 - Matplotlib
